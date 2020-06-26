@@ -27,8 +27,8 @@ Optimise code by:
     - using a different way of getting avg colour, in order to remove i/o writing & reading temp imgs
 
     - use sprites with less whitespace (sprites that fill majority 32x32 pixel space)
-    
-        - I did search for these, 
+
+        - I did search for these, but all sprites I could find had whitespace or were different sizes
 
 
 *OTHER SCRIPTS*
