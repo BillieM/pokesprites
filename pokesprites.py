@@ -3,6 +3,8 @@ import os
 from colorthief import ColorThief
 import pickle
 
+# generates 
+
 def pickleSpritesDict(fileName, spritesDict):
     outFile = open(fileName, 'wb')
     pickle.dump(spritesDict, outFile)
