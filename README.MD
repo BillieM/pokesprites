@@ -19,11 +19,16 @@ The program will run (slowly), on completion an output image will be added to th
 -------------------------------------------------------------------------------------------------------------------------------------
 
 Optimise code by:
-    using threading
-    not calculating euclidian distance for all 151 sprites for each & every pixel
-    using a different way of getting avg colour, in order to remove i/o writing & reading temp imgs
-    use sprites with less whitespace (sprites that fill majority 32x32 pixel space)
-        I did search for these, 
+
+    - using threading
+
+    - not calculating euclidian distance for all 151 sprites for each & every pixel
+
+    - using a different way of getting avg colour, in order to remove i/o writing & reading temp imgs
+
+    - use sprites with less whitespace (sprites that fill majority 32x32 pixel space)
+    
+        - I did search for these, 
 
 
 *OTHER SCRIPTS*
