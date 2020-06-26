@@ -1,8 +1,10 @@
 *WARNING, CODE IS MESSY & UNOPTIMISED*
+-------------------------------------------------------------------------------------------------------------------------------------
 
 This script is used for generating collages using sprites of the original 151 pokemon (using gen 5 sprites)
 
 *TO RUN*
+-------------------------------------------------------------------------------------------------------------------------------------
 
 Add an image into the main './pokesprites' folder, run 'picgen.py'.
 On run, you'll be prompted for the name of the image, type this in (with file extension)
@@ -14,6 +16,7 @@ The program will run (slowly), on completion an output image will be added to th
 
 
 *WAYS TO IMPROVE*
+-------------------------------------------------------------------------------------------------------------------------------------
 
 Optimise code by:
     using threading
@@ -24,6 +27,7 @@ Optimise code by:
 
 
 *OTHER SCRIPTS*
+-------------------------------------------------------------------------------------------------------------------------------------
 
 'pokesprites.py' is used to generate a dictionary of all sprites & their mean rgb colour value, this dictionary is pickled & imported on run into picgen.py
 
