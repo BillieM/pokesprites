@@ -1,4 +1,4 @@
-*WARNING, CODE IS MESSY & UNOPTIMISED*
+*WARNING, CODE IS MESSY & UNOPTIMISED* 
 -------------------------------------------------------------------------------------------------------------------------------------
 
 This script is used for generating collages using sprites of the original 151 pokemon (using gen 5 sprites)
