@@ -32,7 +32,7 @@ os.chdir(os.path.abspath(os.path.dirname(__file__)))
 
 sprites = openSpritesPickle('sprites')
 
-pixelScanSize = 8           # width/ height in pixels that will represent a single sprite
+pixelScanSize = 8           # width/ height in pixels that will represent a single sprite.
 spriteSize = 32             # pixel size of input sprites, (32x32 with pokemon sprites)
 
 imgFileName = str(input('what is the name of your input image (with file extension)'))
