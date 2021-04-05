@@ -1,7 +1,7 @@
 *WARNING, CODE IS MESSY & UNOPTIMISED* 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-This script is used for generating collages using sprites of the original 151 pokemon (using gen 5 sprites)
+This script is used for generating collages using sprites of the original 151 pokemon (using gen 5 sprites). I intend to rewrite this script (perhaps slightly more advanced & polished) in Golang.
 
 *TO RUN*
 -------------------------------------------------------------------------------------------------------------------------------------
